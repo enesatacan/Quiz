@@ -22,4 +22,6 @@ This project is a basic **JavaScript based quiz application**. The user can inst
 - 🎨 **CSS3**: Visual design and style management.
 - ✨ **Vanilla JavaScript**: Dynamic operations and user interactions.
 
+git clone https://github.com/enesatacan/Quiz
+
   ![image](https://github.com/user-attachments/assets/6f640e5a-1af5-4e1d-9d7a-748bf4d2a847)
